@@ -1,0 +1,34 @@
+---
+createdAt: 1706108886489
+updatedAt: 1706116964858
+id: "e8791ddc-dcc8-44be-9b6b-626bcd04bd72"
+identification: "helsinki_realm"
+description: "helsinki_realms description"
+secret: "helsinki"
+publicClient: false
+project: "4a4a8537-3cf1-4ba3-9dd6-e74f98b27a16"
+user: "demo_developer"
+appRoles:
+- createdAt: 1706108886492
+  updatedAt: 1706108886492
+  id: "d03c4b99-1bbf-4ac8-aee4-6357ff7871fd"
+  name: "admin"
+  description: "administrador"
+  childRoles: []
+  appUsers:
+  - createdAt: 1706108969809
+    updatedAt: 1706108969809
+    id: "4f349624-14ed-4a71-aa8c-e3deb8c01de4"
+    user: "demo_developer"
+- createdAt: 1706108886493
+  updatedAt: 1706108886493
+  id: "70fdb6a4-4c66-4d26-b62f-55b05ba8dee4"
+  name: "analyst"
+  description: "usuario para visualización"
+  childRoles: []
+  appUsers:
+  - createdAt: 1706108964344
+    updatedAt: 1706108964344
+    id: "f6c99237-7a20-4d8e-88f1-b5660b19c472"
+    user: "demo_user"
+childApps: []

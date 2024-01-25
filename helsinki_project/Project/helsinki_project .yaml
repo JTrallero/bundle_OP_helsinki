@@ -1,0 +1,153 @@
+---
+createdAt: 1706116703663
+updatedAt: 1706179499299
+id: "4a4a8537-3cf1-4ba3-9dd6-e74f98b27a16"
+webProject: "3ec981c5-4afd-46d2-bb7b-312f15d18242"
+identification: "helsinki_project "
+description: "estudio de la evolución demografica de Helsinki "
+user: "demo_developer"
+users: []
+type: "ENGINE"
+image: !!binary |-
+  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
+  HrinND0DTREAAAAASUVORK5CYII=
+projectResourceAccesses:
+- createdAt: 1706117064759
+  updatedAt: 1706117064759
+  id: "12ce2665-de21-45a9-8f43-2e4ba7e528ae"
+  access: "MANAGE"
+  resource: "67aaa262-fe9a-41bb-977b-c55bea5ba1f6@Form"
+  project: "4a4a8537-3cf1-4ba3-9dd6-e74f98b27a16"
+  appRole: "d03c4b99-1bbf-4ac8-aee4-6357ff7871fd"
+  access_all: false
+- createdAt: 1706117182542
+  updatedAt: 1706117182542
+  id: "9e37752f-fa17-4e8c-a238-017d4baaf823"
+  access: "VIEW"
+  resource: "9c8e3946-9182-4dc6-af00-583cf77ae2d4@Configuration"
+  project: "4a4a8537-3cf1-4ba3-9dd6-e74f98b27a16"
+  appRole: "d03c4b99-1bbf-4ac8-aee4-6357ff7871fd"
+  access_all: false
+- createdAt: 1706117072454
+  updatedAt: 1706117072454
+  id: "55ecbdcb-47d9-4e3d-b40a-fe563ccde7ca"
+  access: "VIEW"
+  resource: "52d76a82-6638-498b-8ccf-db74ca1b089b@Form"
+  project: "4a4a8537-3cf1-4ba3-9dd6-e74f98b27a16"
+  appRole: "70fdb6a4-4c66-4d26-b62f-55b05ba8dee4"
+  access_all: false
+- createdAt: 1706117040041
+  updatedAt: 1706117040041
+  id: "d89b8125-da8f-4acd-b2d1-a8fb0629cc2f"
+  access: "MANAGE"
+  resource: "fed36453-8326-43e0-9e32-9284fc9fe3a7@Dashboard"
+  project: "4a4a8537-3cf1-4ba3-9dd6-e74f98b27a16"
+  appRole: "d03c4b99-1bbf-4ac8-aee4-6357ff7871fd"
+  access_all: false
+- createdAt: 1706117066013
+  updatedAt: 1706117066013
+  id: "e8c6cdec-525a-4e14-963a-12ec77bdd9ad"
+  access: "MANAGE"
+  resource: "d7b7d809-24c7-487a-8eac-4402ce9e4975@Form"
+  project: "4a4a8537-3cf1-4ba3-9dd6-e74f98b27a16"
+  appRole: "d03c4b99-1bbf-4ac8-aee4-6357ff7871fd"
+  access_all: false
+- createdAt: 1706117179032
+  updatedAt: 1706117179032
+  id: "8f9fc412-f910-4d93-bfcd-75b7615b0b81"
+  access: "MANAGE"
+  resource: "9c8e3946-9182-4dc6-af00-583cf77ae2d4@Configuration"
+  project: "4a4a8537-3cf1-4ba3-9dd6-e74f98b27a16"
+  appRole: "70fdb6a4-4c66-4d26-b62f-55b05ba8dee4"
+  access_all: false
+- createdAt: 1706117065407
+  updatedAt: 1706117065407
+  id: "b3204e87-d1e4-4159-9c97-e7e37ca80a34"
+  access: "MANAGE"
+  resource: "52d76a82-6638-498b-8ccf-db74ca1b089b@Form"
+  project: "4a4a8537-3cf1-4ba3-9dd6-e74f98b27a16"
+  appRole: "d03c4b99-1bbf-4ac8-aee4-6357ff7871fd"
+  access_all: false
+- createdAt: 1706117034867
+  updatedAt: 1706117034867
+  id: "98741d4f-8922-495c-8a7d-02f7c005a63d"
+  access: "VIEW"
+  resource: "fed36453-8326-43e0-9e32-9284fc9fe3a7@Dashboard"
+  project: "4a4a8537-3cf1-4ba3-9dd6-e74f98b27a16"
+  appRole: "70fdb6a4-4c66-4d26-b62f-55b05ba8dee4"
+  access_all: false
+app: "e8791ddc-dcc8-44be-9b6b-626bcd04bd72"

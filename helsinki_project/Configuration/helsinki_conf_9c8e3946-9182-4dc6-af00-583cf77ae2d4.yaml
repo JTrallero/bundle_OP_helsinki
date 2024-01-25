@@ -1,0 +1,57 @@
+---
+createdAt: 1706116491739
+updatedAt: 1706122190627
+id: "9c8e3946-9182-4dc6-af00-583cf77ae2d4"
+identification: "helsinki_conf"
+user: "demo_developer"
+ymlConfig: "[\r\n    {\r\n        \"realmId\": \"assets_app\",\r\n        \"clientId\"\
+  : \"assets_app\",\r\n        \"secret\": \"helsinki\",\r\n        \"title\": \"\
+  Onesait Platform Tutorial\",\r\n        \"i18n\": \"Helsinki_Population\",\r\n \
+  \       \"project\": \"Helsinki_population\",\r\n        \"productInfo\": {\r\n\
+  \            \"suite\": \"platform\",\r\n            \"product\": \"OneOps\",\r\n\
+  \            \"productModule\": \" \",\r\n            \"secondary\": false,\r\n\
+  \            \"negative\": false,\r\n            \"simple\": false,\r\n        \
+  \    \"onesait\": false,\r\n            \"accentBlock\": false\r\n        },\r\n\
+  \        \"pluginsOpts\": {\r\n            \"filterDatasources\": {}\r\n       \
+  \ },\r\n        \"appVersion\": 0,\r\n        \"customization\": {\r\n         \
+  \   \"showActiveFilters\": false,\r\n            \"showFilters\": false,\r\n   \
+  \         \"showFavorites\": false,\r\n            \"user\": {\r\n             \
+  \   \"showTheme\": false,\r\n                \"showLanguage\": true\r\n        \
+  \    },\r\n            \"styles\": {\r\n                \"--color-bg-interactive\"\
+  : \"#2e4454\",\r\n                \"--color-border-interactive\": \"#2e4454\",\r\
+  \n                \"--color-bg-interactive-soft\": \"#2e4454\",\r\n            \
+  \    \"--color-bg-hover-2\": \"#c8e0de\"\r\n            }\r\n        },\r\n    \
+  \    \"globalFilters\": [],\r\n        \"initialNavigation\": [\r\n            {\r\
+  \n                \"type\": \"component\",\r\n                \"path\": \"/forms\"\
+  ,\r\n                \"role\": \"admin\",\r\n                \"params\": {\r\n \
+  \                   \"formcode\": \"Helsinki_add_info-jtrallero\"\r\n          \
+  \      },\r\n                \"id\": \"Forms\"\r\n            },\r\n           \
+  \ {\r\n                \"type\": \"dashboard\",\r\n                \"role\": \"\
+  analyst\",\r\n                \"id\": \"HELSINKI_POPULATION\"\r\n            }\r\
+  \n        ],\r\n        \"navigation\": {\r\n            \"helsinki_dashboard\"\
+  : {\r\n                \"cssClass\": \"my-custom-class\",\r\n                \"\
+  langs\": {\r\n                    \"en\": \"Evolución población/años\",\r\n    \
+  \                \"es\": \"Population evolution/years\"\r\n                },\r\n\
+  \                \"icon\": \"file-add\",\r\n                \"type\": \"component\"\
+  ,\r\n                \"componentId\": \"helsinki_population\",\r\n             \
+  \   \"to\": \"/dashboard/fed36453-8326-43e0-9e32-9284fc9fe3a7\"\r\n            },\r\
+  \n            \"hesinki_form\": {\r\n                \"cssClass\": \"my-custom-class\"\
+  ,\r\n                \"langs\": {\r\n                    \"es\": \"Listado de població\
+  n anual\",\r\n                    \"en\": \"Annual population list\"\r\n       \
+  \         },\r\n                \"icon\": \"file-filled\",\r\n                \"\
+  type\": \"component\",\r\n                \"componentId\": \"helsinki_from\",\r\n\
+  \                \"to\": \"/forms/helsinki_form-demo_developer/\"\r\n          \
+  \  }\r\n        },\r\n        \"navigationAllowed\": [\r\n            {\r\n    \
+  \            \"role\": \"admin\",\r\n                \"components\": [\r\n     \
+  \               {\r\n                        \"id\": \"hesinki_form\",\r\n     \
+  \                   \"options\": {}\r\n                    },\r\n              \
+  \      {\r\n                        \"id\": \"hesinki_dashboard\",\r\n         \
+  \               \"options\": {}\r\n                    }\r\n                ]\r\n\
+  \            },\r\n            {\r\n                \"role\": \"analyst\",\r\n \
+  \               \"components\": [\r\n                    {\r\n                 \
+  \       \"id\": \"hesinki_dashboard\",\r\n                        \"options\": {}\r\
+  \n                    }\r\n                ]\r\n            }\r\n        ]\r\n \
+  \   }\r\n]\r\n"
+environment: "default"
+type: "EXTERNAL_CONFIG"
+description: "helsinki_configuration"

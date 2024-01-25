@@ -1,0 +1,16 @@
+---
+createdAt: 1706110160590
+updatedAt: 1706117748320
+id: "0347ed69-da92-4119-a7a8-ec066adf3476"
+identification: "helsinki_datasource"
+user: "demo_developer"
+mode: "query"
+query: "select * from HelsinkiPopulation as c where c.Helsinki.year > 2000 AND c.Helsinki.year\
+  \ < 2024 limit 100"
+dbtype: "RTDB"
+ontology: "MASTER-Ontology-4"
+refresh: 0
+maxvalues: 100
+description: "datasource helsinki population"
+config:
+  simpleMode: false
